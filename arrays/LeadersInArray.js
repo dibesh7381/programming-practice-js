@@ -13,7 +13,7 @@ function findLeaders(arr) {  // here we declare a fuction we accept an array ins
   }
 
 
-  return leaders.reverse();  // here we reverse our leaders array for find leaders values
+  return leaders.reverse();  // here we reverse our leaders array for find leaders values in ascending order
 }
 
 
